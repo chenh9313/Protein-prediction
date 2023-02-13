@@ -1,3 +1,7 @@
+## Description: "Return the gene structure information of target gene"
+## Author: Huan Chen
+## May-2021
+
 """This is Part6: Get the information of protein sequence of the gene """
 import matplotlib.pylab as plt
 import networkx as nx

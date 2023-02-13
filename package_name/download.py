@@ -1,3 +1,7 @@
+## Description: "Download data from websites"
+## Author: Huan Chen
+## May-2021
+
 import requests
 from bs4 import BeautifulSoup
 

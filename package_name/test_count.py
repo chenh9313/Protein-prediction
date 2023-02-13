@@ -1,3 +1,7 @@
+## Description: "Return the gene structure information of target gene"
+## Author: Huan Chen
+## May-2021
+
 """Test subfunction2."""
 import pytest
 from count import count_sequence

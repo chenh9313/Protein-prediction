@@ -1,3 +1,8 @@
+## Description: "Calculate dN and dS"
+## Author: Huan Chen
+## May-2021
+
+
 """This is Part4: Get the information of dN/ds of non_coding and coding area."""
 
 def cod_noncod(number, seq1, seq2):

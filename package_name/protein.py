@@ -1,3 +1,7 @@
+## Description: "Return the information of protein sequence of target gene"
+## Author: Huan Chen
+## May-2021
+
 """This is Part4: Get the information of protein sequence of the gene """
 import matplotlib.pylab as plt
 import numpy as np

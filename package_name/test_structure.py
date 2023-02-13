@@ -1,3 +1,7 @@
+## Description: "Return the gene structure information of target gene"
+## Author: Huan Chen
+## May-2021
+
 """Test subfunction3."""
 import pytest
 from structure import structure_gene

@@ -1,0 +1,34 @@
+**before lint**
+partOne.py: 1.76/10
+partThree.py: 1.76/10
+partTwo.py: 5.68/10
+subfunction1_Download.py: 1.00/10 (previous run: 1.00/10, +0.00)
+subfunction2_Count.py: -3.33/10 (previous run: -3.33/10, +0.00)
+subfunction3_Structure.py: -4.00/10 (previous run: -4.00/10, +0.00)
+subfunction4_Protein.py: -1.88/10 (previous run: -1.88/10, +0.00)
+subfunction5_CodNoncod.py: 4.26/10 (previous run: 4.26/10, +0.00)
+subfunction6_Tree.py: 0.91/10 (previous run: 0.91/10, +0.00)
+test_subfunction1_Download.py: -7.50/10
+test_subfunction2_Count.py: -2.50/10
+test_subfunction3_Structure.py: -2.50/10
+test_subfunction4_Protein.py: -2.50/10
+test_subfunction5_CodNoncod.py: -5.00/10
+test_subfunction6_Tree.py: -5.00/10
+
+
+**After lint**
+partOne.py: 9.07/10 (previous run: 9.07/10, +0.00)
+partTwo.py: 9.32/10 (previous run: 9.32/10, +0.00)
+partThree.py: 8.75/10 (previous run: 8.75/10, +0.00)
+subfunction1_Download.py: 8.18/10 (previous run: 8.18/10, +0.00)
+subfunction2_Count.py: 7.89/10 (previous run: 7.89/10, +0.00)
+subfunction3_Structure.py: 7.78/10 (previous run: 7.78/10, +0.00)
+subfunction4_Protein.py: 8.33/10 (previous run: 8.33/10, +0.00)
+subfunction5_CodNoncod.py: 9.42/10 (previous run: 9.41/10, +0.01)
+subfunction6_Tree.py: 8.46/10 (previous run: 8.46/10, +0.00)
+test_subfunction1_download.py: 10.00/10 (previous run: 10.00/10, +0.00)
+test_subfunction2_count.py: 10.00/10 (previous run: 10.00/10, +0.00)
+test_subfunction3_structure.py: 10.00/10 (previous run: 10.00/10, +0.00)
+test_subfunction4_protein.py: 10.00/10 (previous run: 10.00/10, +0.00)
+test_subfunction5_codnoncod.py: 10.00/10 (previous run: 10.00/10, +0.00)
+test_subfunction6_tree.py: 7.50/10 (previous run: 7.50/10, +0.00)

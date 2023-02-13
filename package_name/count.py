@@ -1,3 +1,7 @@
+## Description: "Count number of ACGT"
+## Author: Huan Chen
+## May-2021
+
 import matplotlib.pylab as plt
 import numpy as np
 

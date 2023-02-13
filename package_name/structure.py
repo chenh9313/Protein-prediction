@@ -1,3 +1,7 @@
+## Description: "Return the gene structure information of target gene"
+## Author: Huan Chen
+## May-2021
+
 """This is Part3: Get the information of gene structure from genome annotation files """
 import pandas as pd
 
